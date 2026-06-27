@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: pasted__pCone1_0
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 42
+    topology: 0
+    firstVertex: 0
+    vertexCount: 19
+    localAABB:
+      m_Center: {x: -4.656613e-10, y: 0, z: 0}
+      m_Extent: {x: 0.01, y: 0.049999997, z: 0.009999999}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 2
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata: 
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 57
+      m_Range: 0.099999994
+      m_Start: -0.049999997
+      m_Data: e56d0000e56dff7f0000666618920000e56d66660000ff7f99990000ff7fe56d00001892189200001892ff7f00009999e56d0000e56dff7fffffff7fff7f0000666618920000e56d99990000ff7f189200001892189200001892ff7f00009999e56d0000189266660000ff7fe56d0000e56d
+      m_BitSize: 16
+    m_UV:
+      m_NumItems: 38
+      m_Range: 0.84916914
+      m_Start: 0.07499999
+      m_Data: 6857e21f009554f2bf7f00f88736da95a0ed9ffffef9ef9f7f95a00d807f9554e21f00fe01807625fefb8736dafef90f
+      m_BitSize: 10
+    m_Normals:
+      m_NumItems: 38
+      m_Range: 1.9999847
+      m_Start: -0.9999924
+      m_Data: 7f007f007f007f007f007f007f007f00248c7fff7e8cd98cfe8cd98cd98c7e8c248c018b248c
+      m_BitSize: 8
+    m_Tangents:
+      m_NumItems: 38
+      m_Range: 1.9871608
+      m_Start: -0.9999472
+      m_Data: 007f007f007f007f007f007f007f007f73fb257f70ff76ff73ff61fb73047001760073016104
+      m_BitSize: 8
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 19
+      m_Data: 00e001
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 38
+      m_Data: 0000551514
+      m_BitSize: 1
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 42
+      m_Data: 20083180208394414c31a7a0a4545a2b31969a4bef2508538c4902
+      m_BitSize: 5
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: -4.656613e-10, y: 0, z: 0}
+    m_Extent: {x: 0.01, y: 0.049999997, z: 0.009999999}
+  m_MeshUsageFlags: 1
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 1

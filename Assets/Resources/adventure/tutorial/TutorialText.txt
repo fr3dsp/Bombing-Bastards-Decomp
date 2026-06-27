@@ -1,0 +1,13 @@
+DR.Wallow*Ah, there you are! The Bombing Bastard:*my finest robotic creation! With your help,*I will conquer the galaxy.*DR.Wallow*But enough with the chit-chat. Let's get started.*I need you to get rid of all these critters!* *DR.Wallow*Since this is your first mission, I will assist you.*First, use the arrow keys to move to*the mark you see on the screen.
+DR.Wallow*Good job! Now press Space to drop a bomb.* *
+DR.Wallow*Now, quickly move to the mark on the screen*before the bomb goes off. Hurry up!!!*
+DR.Wallow*Wow, that was a big blast! As you can see,*there are items hidden in the bushes.*Go collect them all!
+DR.Wallow*Fire up:*Increases the blast radius of a bomb.*
+DR.Wallow*Glove:*This lets you throw a bomb.*
+#replace_word*DR.Wallow*Now, it's time to kill all those nasty critters!*Go to the mark on the screen. I will teach you*how to use the glove to pick up and throw a bomb.
+DR.Wallow*Nice! Drop a bomb and press Alt to pick it up!* *
+DR.Wallow*Here comes the most exciting part!*Press Alt again to throw the bomb at the alien.*
+DR.Wallow*Wonderful! You are one talented robot.*But then, I created you, so of course you are!* *DR.Wallow*Remember to use the glove. In many situations,*it is the only way to kill critters!* *DR.Wallow*One last thing, collect the item and*drop another bomb.*
+DR.Wallow*Remote Control:*This lets you detonate a bomb from*a distance, whenever you feel like it.
+DR.Wallow*This bomb will only go off when*you choose to explode it.*Press Ctrl to make it happen.
+DR.Wallow*Attaboy! My goal of conquering the galaxy*relies on you. Now, let's go to*the killing field and blast some critters!
