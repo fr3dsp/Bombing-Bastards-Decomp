@@ -1,2 +1,2 @@
-# Bombing-Bastards-Decomp
+# Bombing Bastards Decomp
 A Bombing Bastards Decompilation.
